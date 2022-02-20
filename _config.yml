@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 # basic settings
-title: "Michael Bodell | Project Manager"
+title: "Michael Bodell"
 email: "&#109;&#105;&#107;&#101;&#098;&#111;&#100;&#101;&#108;&#108;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;"
 description: "Senior Project Manager"
 author: "Michael Bodell"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://.mikebodell.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mikebodell.com" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%B %d %Y"
 
 # paginations & permalinks
