@@ -220,7 +220,7 @@ skills:
 facts:
   title: "Interests"
   items:
-    - icon: "faa fa-hockey-puck"
+    - icon: "fas fa-hockey-puck"
       name: "Hockey"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
