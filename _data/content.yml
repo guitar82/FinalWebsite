@@ -1,5 +1,5 @@
 # Sections content configuration file
-## 
+##
 ### use navigation.yml file to re-order, delete or add section of each card
 ### here you can find all content in all pre-build sections
 
@@ -57,66 +57,75 @@ services:
     - icon: "fas fa-mobile-alt"
       name: "Android Application"
       text: "Games, playing music, handle network transactions, interacting content etc."
-      
+
 ### Pricing [ pricing ]
-pricing:
-  title: "Pricing"
-  items:
-    - icon: "fas fa-star"
-      name: "Basic"
-      price: "39"
-      price_before: "$"
-      price_after: "hour"
-      list:
-        - value: "Web Development"
-          disable: "no"
-        - value: "Advetising"
-          disable: "no"
-        - value: "Game Development"
-          disable: "no"
-        - value: "Music Writing"
-          disable: "yes"
-        - value: "Photography"
-          disable: "yes"
-      button: "Buy Now"
-      link: "contact/"
-          
-    - icon: "fas fa-rocket"
-      name: "Premium"
-      price: "59"
-      price_before: "$"
-      price_after: "hour"
-      list:
-        - value: "Web Development"
-          disable: "no"
-        - value: "Advetising"
-          disable: "no"
-        - value: "Game Development"
-          disable: "no"
-        - value: "Music Writing"
-          disable: "no"
-        - value: "Photography"
-          disable: "no"
-      button: "Buy Now"
-      link: "contact/"
+#pricing:
+#  title: "Pricing"
+#  items:
+#    - icon: "fas fa-star"
+#      name: "Basic"
+#      price: "39"
+#      price_before: "$"
+#      price_after: "hour"
+#      list:
+#        - value: "Web Development"
+#          disable: "no"
+#        - value: "Advetising"
+#          disable: "no"
+#        - value: "Game Development"
+#          disable: "no"
+#        - value: "Music Writing"
+#          disable: "yes"
+#        - value: "Photography"
+#          disable: "yes"
+#      button: "Buy Now"
+#      link: "contact/"
+#
+#    - icon: "fas fa-rocket"
+#      name: "Premium"
+#      price: "59"
+#      price_before: "$"
+#      price_after: "hour"
+#      list:
+#        - value: "Web Development"
+#          disable: "no"
+#        - value: "Advetising"
+#          disable: "no"
+#        - value: "Game Development"
+#          disable: "no"
+#        - value: "Music Writing"
+#          disable: "no"
+#        - value: "Photography"
+#          disable: "no"
+#      button: "Buy Now"
+#      link: "contact/"
 
 ### Resume [ resume ]
 resume:
   experience:
     title: "Experience"
     items:
-      - year: "2013 - Present"
-        name: "Art Director - Facebook Inc"
-        text: "Collaborate with creative and development teams on the execution of ideas."
+      - year: "2017 - Present"
+        name: "Senior Project Manager"
+        text: "• Supervise and inspire multiple project teams of full-time employees and independent contractors through delivering numerous projects per year.
+Manage multiple multi-phase projects concurrently with an average project budget range between $150,000-$3.5M."
 
-      - year: "2011 - 2012"
-        name: "Front-end Developer - Google Inc"
-        text: "Monitored technical aspects of the front-end delivery for several projects."
+      - year: "2005 - 2017"
+        name: "Information Technology System Administrator/Manager"
+        text: "•Collaborated with Synergetic Data Systems, Inc. and Esker Termsync to implement an automated SAAS cloud-based accounts receivable aging and
+payment processing portal. Implemented automated ETL processes for daily receivables posting. Design optimized and shortened the order to cash
+conversion cycle by 30%, leading to a quicker inventory turn, reduced clerical Muda, and increased bottom-line savings.
+•Designed and deployed a VMware-based virtualized high availability system with an offsite fault-tolerant server with a 99.99% uptime. Installed,
+configured, and managed all physical servers, virtual machines, SAN fabric attached storage array, networking, offsite server and backup, firewalls,
+point of sale stations, and user stations.
+•Planned and executed hardware and software upgrades, migrations, and installations, including servers, printers, switches, and point-of-sale devices.
+•Designed and implemented inventory management control processes, warehouse mapping, and order processing systems for over 30,000 items.
+•Wrote and maintained comprehensive documentation for all systems, processes, and procedures."
 
-      - year: "2009 - 2010"
-        name: "Senior Developer - Abc Inc"
-        text: "Optimize website performance using latest technology."
-        
+#      - year: "2009 - 2010"
+#        name: "Senior Developer - Abc Inc"
+#        text: "Optimize website performance using latest technology."
+
   education:
     title: "Education"
     items:
@@ -226,7 +235,7 @@ facts:
     - icon: "fas fa-headphones"
       name: "Music"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-      
+
 ### Team [ team ]
 team:
   title: "Our Team"
@@ -241,7 +250,7 @@ team:
           icon: "fab fa-instagram"
         - url: "https://dribbble.com/"
           icon: "fab fa-dribbble"
-          
+
     - image: "assets/img/team/team2.jpg"
       name: "Peter Green"
       role: "Back-end Developer"
@@ -252,7 +261,7 @@ team:
           icon: "fab fa-instagram"
         - url: "https://dribbble.com/"
           icon: "fab fa-dribbble"
-          
+
 ### Testimonials [ testimonials ]
 testimonials:
   title: "Testimonials"
@@ -261,7 +270,7 @@ testimonials:
       name: "Helen Floyd"
       role: "Art Director"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-      
+
     - image: "assets/img/testimonials/rev1.jpg"
       name: "Helen Floyd"
       role: "Art Director"
@@ -282,7 +291,7 @@ clients:
 
     - url: "https://www.google.com"
       image: "assets/img/clients/client4.png"
-      
+
 ### Custom Text [ text ]
 text:
   title: "Custom Text"
@@ -310,7 +319,7 @@ contacts_info:
     - label: "Address"
       icon: "fas fa-map-marker-alt"
       value: "2621 W Pico Blvd, Los Angeles"
-    
+
     - label: "Freelance Available"
       icon: "fas fa-user-tie"
       value: "I am available for Freelance hire"
@@ -318,4 +327,3 @@ contacts_info:
 ### Contact Form [ contacts-form ]
 contacts_form:
   title: "Contact Form"
-
