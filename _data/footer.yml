@@ -6,10 +6,10 @@
 main:
   social:
     - title: "Linkedin"
-      icon: "social-linkedin"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/mikebodell"
     - title: "GitHub"
-      icon: "social-github"
+      icon: "fab fa-github"
       url: "https://github.com/guitar82"
     - title: "Twitter"
       icon: "social-twitter"
