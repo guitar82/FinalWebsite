@@ -6,7 +6,7 @@
 settings:
   logo_text: "Michael <strong>Bodell</strong>"
   logo_hover_text: "Download <strong>CV</strong>"
-  quick_colors: "" # select quick color schemes: "beige", "blue", "brown", "green_light", "green", "orange", "purple", "red", "yellow_light", "yellow". If empty colors taken from _sass/ryancv/settings.scss
+  quick_colors: "blue" # select quick color schemes: "beige", "blue", "brown", "green_light", "green", "orange", "purple", "red", "yellow_light", "yellow". If empty colors taken from _sass/ryancv/settings.scss
 
 ### Portfolio Filters Settings
 portfolio:
