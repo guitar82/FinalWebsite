@@ -6,33 +6,33 @@
 ### About [ about ]
 about:
   image: "assets/img/man2.jpg"
-  text: "<p>Hello! I’m Daniel Curry. Web designer from USA, California, San Francisco. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique.</p>"
+  text: "<p>Hello! I’m Michael Bodell. Project Manager. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique.</p>"
   list:
-    - label: "Age"
-      value: "24"
+    - label: ""
+      value: ""
 
     - label: "Residence"
       value: "USA"
 
-    - label: "Freelance"
+    - label: "Work Status"
       value: "Available"
 
     - label: "Address"
-      value: "San Francisco"
+      value: "York, Pa"
 
     - label: "Phone"
-      value: "+1 256 254 84 56"
+      value: "+1"
 
     - label: "E-mail"
-      value: "alejandroa@gmail.com"
+      value: "mikebodell@gmail.com"
 
   download:
     text: "Download CV"
-    link: "https://drive.google.com/"
+    link: "https://drive.google.com/file/d/1l6fSBIxmrW9dgfAw5zszPypXBt6Kfr9a/view?usp=sharing"
 
 ### Services [ services ]
 services:
-  title: "Services"
+  title: "Skills"
   items:
     - icon: "fas fa-code"
       name: "Web Development"
@@ -211,8 +211,8 @@ skills:
 facts:
   title: "Interests"
   items:
-    - icon: "fas fa-baseball-ball"
-      name: "Basketball"
+    - icon: "faa fa-hockey-puck"
+      name: "Hockey"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
     - icon: "fas fa-campground"
@@ -232,8 +232,8 @@ team:
   title: "Our Team"
   items:
     - image: "assets/img/team/team1.jpg"
-      name: "Alejandro Abeyta"
-      role: "Web Developer"
+      name: "Michael Bodell"
+      role: "Project Manager"
       social:
         - url: "https://www.pinterest.com/"
           icon: "fab fa-pinterest"
