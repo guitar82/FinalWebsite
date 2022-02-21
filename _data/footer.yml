@@ -12,5 +12,5 @@ main:
       icon: "fab fa-github"
       url: "https://github.com/guitar82"
    
-  text1: "E: &#109;&#105;&#107;&#101;&#098;&#111;&#100;&#101;&#108;&#108;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;"
+  text1: "E: <a href="mailto:{{ mikebodell@gmail.com | encode_email }}" title="Contact me">Contact me</a>"
   text2: ""
