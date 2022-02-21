@@ -9,28 +9,28 @@ main:
   # Home
   - title: "Home"
     url: "/"
-    parent: 1
+    parent: 0
     childs:
         - title: "Home Personal"
           url: "/"
-        - title: "Home Default"
-          url: "index-default/"
-        - title: "Home Slider"
-          url: "index-slider/"
-        - title: "Home Image"
-          url: "index-image/"
-        - title: "Home Video"
-          url: "index-video/"
+ #       - title: "Home Default"
+ #         url: "index-default/"
+ #       - title: "Home Slider"
+ #         url: "index-slider/"
+ #       - title: "Home Image"
+ #         url: "index-image/"
+ #       - title: "Home Video"
+ #         url: "index-video/"
     
   # Resume
   - title: "Resume"
     url: "resume/"
-    parent: 1
+    parent: 0
     childs:
         - title: "Resume Default"
           url: "resume/"
-        - title: "Resume Image"
-          url: "resume-image/"
+ #       - title: "Resume Image"
+ #         url: "resume-image/"
   
   # Portfolio
   - title: "Portfolio"
@@ -43,13 +43,13 @@ main:
     parent: 0
   
   # Contacts
-  - title: "Contacts"
+  - title: "Contact Me"
     url: "contacts/"
-    parent: 1
+    parent: 0
     childs:
         - title: "Contacts Default"
           url: "contacts/"
-        - title: "Contacts Image"
-          url: "contacts-image/"
-        - title: "Contacts Map"
-          url: "contacts-map/"
+  #      - title: "Contacts Image"
+  #        url: "contacts-image/"
+  #      - title: "Contacts Map"
+  #        url: "contacts-map/"
