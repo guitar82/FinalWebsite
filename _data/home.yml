@@ -4,7 +4,7 @@
 
 ### Started Default
 started:
-  title: "Hello, I’m <strong>Michael Bodell</strong>, Project Manager and <br />IT guru."
+  title: "Hello, I’m <strong>Michael Bodell</strong>,<br /> Project Manager and IT Guru."
   typed:
     - "I manage <strong>projects</strong>"
     - "I develop <strong>mobile apps</strong>"
@@ -12,7 +12,7 @@ started:
 
 ### Started Personal
 started-personal:
-  title: "Hello, I’m <strong>Michael Bodell</strong>, Project Manager and<br />It Guru."
+  title: "Hello, I’m <strong>Michael Bodell</strong>,<br /> Project Manager and IT Guru."
   typed:
     - "I code cool <strong>websites</strong>"
     - "I develop <strong>mobile apps</strong>"
@@ -21,7 +21,7 @@ started-personal:
   
 ### Started Image
 started-image:
-  title: "Hello, I’m <strong>Michael Bodell</strong>, Project Manager and<br />It Guru."
+  title: "Hello, I’m <strong>Michael Bodell</strong>,<br /> Project Manager and IT Guru."
   typed:
     - "I code cool <strong>websites</strong>"
     - "I develop <strong>mobile apps</strong>"
@@ -30,7 +30,7 @@ started-image:
   
 ### Started Video
 started-video:
-  title: "Hello, I’m <strong>Michael Bodell</strong>, Project Manager and<br />It Guru."
+  title: "Hello, I’m <strong>Michael Bodell</strong>,<br /> Project Manager and IT Guru."
   typed:
     - "I code cool <strong>websites</strong>"
     - "I develop <strong>mobile apps</strong>"
@@ -40,7 +40,7 @@ started-video:
   
 ### Started Slider
 started-slider:
-  title: "Hello, I’m <strong>Michael Bodell</strong>, Project Manager and<br />It Guru."
+  title: "Hello, I’m <strong>Michael Bodell</strong>,<br /> Project Manager and IT Guru."
   typed:
     - "I code cool <strong>websites</strong>"
     - "I develop <strong>mobile apps</strong>"
