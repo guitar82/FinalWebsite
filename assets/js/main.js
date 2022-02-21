@@ -173,8 +173,8 @@
 		'patternHeight': 400,
 		'grainOpacity': 0.15,
 		'grainDensity': 3,
-		'grainWidth': 1,
-		'grainHeight': 1
+		'grainWidth': 2,
+		'grainHeight': 2
 	}
 	grained('#grained_container', grained_options);
 	}
