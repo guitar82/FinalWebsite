@@ -94,6 +94,7 @@ DEPENDENCIES
   jekyll (~> 4.1.1)
   jekyll-admin
   jekyll-archives
+  jekyll-email-protect
   jekyll-feed (~> 0.12)
   jekyll-paginate
   jekyll-seo-tag
