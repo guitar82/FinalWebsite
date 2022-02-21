@@ -24,7 +24,7 @@ about:
 services:
   title: Skills
   items:
-    - icon: fa-solid fa-person-dots-from-line
+    - icon: fas fa-person-dots-from-line
       name: Project Management
       text: >-
         Modern and mobile-ready website that will help you reach all of your
