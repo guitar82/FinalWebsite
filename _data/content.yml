@@ -1,5 +1,5 @@
 about:
-  image: assets/img/man2.jpg
+  image: assets/img/portrait.jpg
   text: >-
     <p>Hello! I’m Michael Bodell. Project Manager. I have rich experience in web
     site design and building, also I am good at wordpress. I love to talk with
@@ -24,7 +24,7 @@ about:
 services:
   title: Skills
   items:
-    - icon: fas fa-person-dots-from-line
+    - icon: fas fa-users
       name: Project Management
       text: >-
         Modern and mobile-ready website that will help you reach all of your
@@ -64,39 +64,34 @@ resume:
       - year: 2005 - 2017
         name: Information Technology System Administrator/Manager
         text: >-
-          •Collaborated with Synergetic Data Systems, Inc. and Esker Termsync to
-          implement an automated SAAS cloud-based accounts receivable aging and
-          payment processing portal. Implemented automated ETL processes for
-          daily receivables posting. Design optimized and shortened the order to
-          cash conversion cycle by 30%, leading to a quicker inventory turn,
-          reduced clerical Muda, and increased bottom-line savings. •Designed
-          and deployed a VMware-based virtualized high availability system with
-          an offsite fault-tolerant server with a 99.99% uptime. Installed,
-          configured, and managed all physical servers, virtual machines, SAN
-          fabric attached storage array, networking, offsite server and backup,
-          firewalls, point of sale stations, and user stations. •Planned and
-          executed hardware and software upgrades, migrations, and
-          installations, including servers, printers, switches, and
-          point-of-sale devices. •Designed and implemented inventory management
-          control processes, warehouse mapping, and order processing systems for
-          over 30,000 items. •Wrote and maintained comprehensive documentation
-          for all systems, processes, and procedures.
+          <p> •Collaborated with Synergetic Data Systems, Inc. and Esker
+          Termsync to implement an automated SAAS cloud-based accounts
+          receivable aging and payment processing portal. Implemented automated
+          ETL processes for daily receivables posting. Design optimized and
+          shortened the order to cash conversion cycle by 30%, leading to a
+          quicker inventory turn, reduced clerical Muda, and increased
+          bottom-line savings.</p>  <p> •Designed and deployed a VMware-based
+          virtualized high availability system with an offsite fault-tolerant
+          server with a 99.99% uptime. Installed, configured, and managed all
+          physical servers, virtual machines, SAN fabric attached storage array,
+          networking, offsite server and backup, firewalls, point of sale
+          stations, and user stations.</p>  <p> •Planned and executed hardware
+          and software upgrades, migrations, and installations, including
+          servers, printers, switches, and point-of-sale devices.</p>  <p>
+          •Designed and implemented inventory management control processes,
+          warehouse mapping, and order processing systems for over 30,000
+          items.</p>  <p> •Wrote and maintained comprehensive documentation for
+          all systems, processes, and procedures.</p>
   education:
     title: Education
     items:
-      - year: 2006 - 2008
-        name: Art University of New York
-        text: >-
-          Bachelor's Degree in Computer Science ABC Technical Institute,
-          Jefferson, Missouri
-      - year: 2005 - 2006
-        name: Programming Course
-        text: 'Coursework - Git, WordPress, Javascript, iOS, Android.'
-      - year: 2004 - 2005
-        name: Web Design Course
-        text: >-
-          Converted Photoshop layouts to web pages using HTML, CSS, and
-          JavaScript
+      - year: 2000-2002
+        name: University of the Arts
+        text: Photography Major
+      - year: Summer 2022
+        name: Penn State University
+        text: Matriculated in Bachelors of Business Administration Program
+      
 skills:
   columns:
     - type: default
@@ -114,36 +109,36 @@ skills:
       title: Languages Skills
       items:
         - label: English
-          value: ''
+          value: '100'
     - type: circles
       title: Coding Skills
       items:
         - label: WordPress
-          value: 95
+          value: 85
         - label: PHP / MYSQL
           value: 75
         - label: Angular / JavaScript
-          value: 85
+          value: 70
         - label: HTML / CSS
-          value: 90
+          value: 70
     - type: list
-      title: Knowledge
+      title: Technical Knowledge
       items:
-        - label: Website hosting
+        - label: Website/Infastructure hosting
           value: ''
-        - label: iOS and android apps
+        - label: Server virtualization technologies
           value: ''
-        - label: Create logo design
+        - label: OCR Processing
           value: ''
-        - label: Design for print
+        - label: ERP Solutions 
           value: ''
-        - label: Modern and mobile-ready
+        - label: Windows Server/Client Infastructure
           value: ''
-        - label: Advertising services include
+        - label: ETL/ELT data transformation 
           value: ''
-        - label: Graphics and animations
+        - label: Point of Sale / OPOS 
           value: ''
-        - label: Search engine marketing
+        - label: IT Hardware Infastructure
           value: ''
 facts:
   title: Interests
@@ -166,16 +161,6 @@ team:
     - image: assets/img/team/team1.jpg
       name: Michael Bodell
       role: Project Manager
-      social:
-        - url: 'https://www.pinterest.com/'
-          icon: fab fa-pinterest
-        - url: 'https://www.instagram.com/'
-          icon: fab fa-instagram
-        - url: 'https://dribbble.com/'
-          icon: fab fa-dribbble
-    - image: assets/img/team/team2.jpg
-      name: Peter Green
-      role: Back-end Developer
       social:
         - url: 'https://www.pinterest.com/'
           icon: fab fa-pinterest
@@ -223,10 +208,10 @@ contacts_info:
   list:
     - label: Phone
       icon: fas fa-phone
-      value: + (231) 456 67 89
+      value: + (717) 341 52 32
     - label: Email
       icon: fas fa-envelope
-      value: '<a href=''mailto:steve-pearson@gmail.com''>steve-pearson@gmail.com</a>'
+      value: '<a href=''mailto:mikebodellgmail.com''>mikebodell@gmail.com</a>'
     - label: Address
       icon: fas fa-map-marker-alt
       value: '2621 W Pico Blvd, Los Angeles'
