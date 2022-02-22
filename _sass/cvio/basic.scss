@@ -574,6 +574,10 @@ button:hover {
 	border-bottom: 1px solid $active_color;
 }
 
+button#toggle {
+	background-color: transparent;
+}
+
 label,
 legend {
 	display: block;

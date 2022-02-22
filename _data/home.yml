@@ -4,7 +4,7 @@
 
 ### Started Default
 started:
-  title: "Hello, I’m <strong>Michael Bodell</strong>,<br /> Project Manager and IT Guru."
+  title: "Hello, I’m <strong>Michael Bodell</strong>,<br /> IT Project Manager and tech enthusiast"
   typed:
     - "I have <strong>vision</strong>"
     - "I deliver <strong>progress</strong>"
@@ -30,12 +30,13 @@ started-image:
   
 ### Started Video
 started-video:
-  title: "Hello, I’m <strong>Michael Bodell</strong>,<br /> Project Manager and IT Guru."
+  title: "<strong>Michael Bodell</strong>,<br /> IT project manager and tech enthusiast"
   typed:
     - "I have <strong>vision</strong>"
     - "I deliver <strong>progress</strong>"
     - "I create <strong>value</strong>"
+    - "I build strong <strong>teams</strong>"
     - "I am a <strong>project manager</strong>"
-  video: "https://youtu.be/S4L8T2kFFck"
+  video: "https://youtu.be/b8dnxbcWDwY"
   image: "assets/img/started_image_p.jpg"
   
