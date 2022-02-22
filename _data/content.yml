@@ -179,12 +179,12 @@ contacts_info:
       value: + (717) 341 52 32
     - label: Email
       icon: fas fa-envelope
-      value: '<a href=''mailto:mikebodellgmail.com''>mikebodell@gmail.com</a>'
+      value: '&#109;&#105;&#107;&#101;&#098;&#111;&#100;&#101;&#108;&#108;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;'
     - label: Address
       icon: fas fa-map-marker-alt
-      value: 'York, PA'
+      value: 'York, Pennsylvania'
     - label: Open to work
       icon: fas fa-user-tie
-      value: Open to new work
+      value: I am open to new opportunities.
 contacts_form:
   title: Contact Form

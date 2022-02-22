@@ -19,8 +19,8 @@ main:
  #         url: "index-slider/"
  #       - title: "Home Image"
  #         url: "index-image/"
- #       - title: "Home Video"
- #         url: "index-video/"
+        - title: "Home Video"
+          url: "index-video/"
     
   # Resume
   - title: "CV/Resume"
