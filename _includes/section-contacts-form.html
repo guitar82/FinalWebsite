@@ -16,6 +16,8 @@
             <form id="cform" action="https://formsubmit.io/send/{{ site.formsubmit_email }}" method="POST">
                 <div class="group-val">
                     <input type="text" name="name" placeholder="{{ ui_text.full_name }}" id="name" />
+                    <input name="_redirect" type="hidden" id="name" value="https://mikebodell.com">
+                    <input name="_formsubmit_id" type="text" style="display:none">
                 </div>
                 <div class="group-val">
                     <input type="email" name="email" placeholder="{{ ui_text.email_address }}" id="email" />

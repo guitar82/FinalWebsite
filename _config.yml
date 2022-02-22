@@ -37,7 +37,7 @@ disqus_comments: "yes" # yes - show disqus comments, no - hide disqus comments
 disqus_shortname: "glitche-jekyll-theme" # read more here https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
 
 # formsubmit.io
-formsubmit_email: "mikebodell@gmail.com" # sign up on https://formsubmit.io/ and confirm your email
+formsubmit_email: "7183e6e2-d4f0-45a0-a4c3-a7f7a074f43b" # sign up on https://formsubmit.io/ and confirm your email
 
 # collections
 collections:
