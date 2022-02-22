@@ -35,7 +35,10 @@
 			$('.typed-subtitle').each(function(){
 				$(this).typed({
 					stringsElement: $(this).prev('.typing-subtitle'),
-					loop: true
+					typeSpeed: 70,
+					backSpeed: 45,
+					startDelay: 4000,
+					loop: false
 				});
 			});
 		}

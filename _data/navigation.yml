@@ -11,18 +11,18 @@ main:
     url: "/"
     parent: 0
     childs:
-        - title: "Home Personal"
-          url: "/"
+     #   - title: "Home Personal"
+     #     url: "/"
  #       - title: "Home Default"
  #         url: "index-default/"
  #       - title: "Home Slider"
  #         url: "index-slider/"
  #       - title: "Home Image"
  #         url: "index-image/"
-        - title: "Home Video"
-          url: "index-video/"
-    
-  # Resume
+ #       - title: "Home Video"
+ #         url: "index-video/"
+ 
+ # Resume
   - title: "CV/Resume"
     url: "resume/"
     parent: 0
