@@ -182,9 +182,9 @@ contacts_info:
       value: '<a href=''mailto:mikebodellgmail.com''>mikebodell@gmail.com</a>'
     - label: Address
       icon: fas fa-map-marker-alt
-      value: '2621 W Pico Blvd, Los Angeles'
-    - label: Freelance Available
+      value: 'York, PA'
+    - label: Open to work
       icon: fas fa-user-tie
-      value: I am available for Freelance hire
+      value: Open to new work
 contacts_form:
   title: Contact Form
