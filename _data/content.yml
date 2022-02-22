@@ -1,16 +1,13 @@
 about:
   image: assets/img/portrait.jpg
   text: >-
-    <p>Hello! I’m Michael Bodell. Project Manager. I have rich experience in web
-    site design and building, also I am good at wordpress. I love to talk with
-    you about our unique.</p>
+    <p>Hello! I’m Michael Bodell. I am a project manager with over 23 years of
+    proffesional leadership and managment experience. </p>
   list:
     - label: Name
       value: Michael Bodell
     - label: Address
       value: 'York, Pa'
-    - label: Phone
-      value: Seven one  seven three four one five two three two
     - label: Work Status
       value: Available
     - label: Country
@@ -26,12 +23,10 @@ services:
   items:
     - icon: fas fa-users
       name: Project Management
-      text: >-
-        Modern and mobile-ready website that will help you reach all of your
-        marketing.
+      text: Team builder
     - icon: fas fa-music
-      name: Music Writing
-      text: 'Music copying, writing, creating, transcription, arranging and services.'
+      name: Agilist
+      text: like a symphony
     - icon: fas fa-ad
       name: Advetising
       text: >-
@@ -56,44 +51,40 @@ resume:
     items:
       - year: 2017 - Present
         name: Senior Project Manager
-        text: >-
-          • Supervise and inspire multiple project teams of full-time employees
-          and independent contractors through delivering numerous projects per
-          year. Manage multiple multi-phase projects concurrently with an
-          average project budget range between $150,000-$3.5M.
+        text: ''
       - year: 2005 - 2017
         name: Information Technology System Administrator/Manager
-        text: >-
-          <p> •Collaborated with Synergetic Data Systems, Inc. and Esker
-          Termsync to implement an automated SAAS cloud-based accounts
-          receivable aging and payment processing portal. Implemented automated
-          ETL processes for daily receivables posting. Design optimized and
-          shortened the order to cash conversion cycle by 30%, leading to a
-          quicker inventory turn, reduced clerical Muda, and increased
-          bottom-line savings.</p>  <p> •Designed and deployed a VMware-based
-          virtualized high availability system with an offsite fault-tolerant
-          server with a 99.99% uptime. Installed, configured, and managed all
-          physical servers, virtual machines, SAN fabric attached storage array,
-          networking, offsite server and backup, firewalls, point of sale
-          stations, and user stations.</p>  <p> •Planned and executed hardware
-          and software upgrades, migrations, and installations, including
-          servers, printers, switches, and point-of-sale devices.</p>  <p>
-          •Designed and implemented inventory management control processes,
-          warehouse mapping, and order processing systems for over 30,000
-          items.</p>  <p> •Wrote and maintained comprehensive documentation for
-          all systems, processes, and procedures.</p>
+        text: ''
   education:
     title: Education
     items:
+      - year: Summer 2022
+        name: Penn State University
+        text: Matriculated in Business Administration Program
       - year: 2000-2002
         name: University of the Arts
         text: Photography Major
-      - year: Summer 2022
-        name: Penn State University
-        text: Matriculated in Bachelors of Business Administration Program
-      
 skills:
   columns:
+    - type: list
+      title: Technical Knowledge
+      items:
+        - label: Website/Infastructure hosting
+          value: ''
+        - label: Server virtualization technologies
+          value: ''
+        - label: OCR Processing
+          value: ''
+        - label: ERP Solutions
+          value: ''
+        - label: Windows Server/Client Infastructure
+          value: ''
+        - label: ETL/ELT data transformation
+          value: ''
+        - label: Point of Sale / OPOS
+          value: ''
+        - label: IT Hardware Infastructure
+          value: ''
     - type: default
       title: Design Skills
       items:
@@ -106,10 +97,14 @@ skills:
         - label: Graphic Design
           value: 80
     - type: dotted
-      title: Languages Skills
+      title: Project Management Styles
       items:
-        - label: English
-          value: '100'
+        - label: Agile
+          value: 80
+        - label: Six Sigma
+          value: 65
+        - label: Waterfall
+          value: 90
     - type: circles
       title: Coding Skills
       items:
@@ -117,29 +112,10 @@ skills:
           value: 85
         - label: PHP / MYSQL
           value: 75
-        - label: Angular / JavaScript
+        - label: React/ JavaScript
           value: 70
         - label: HTML / CSS
           value: 70
-    - type: list
-      title: Technical Knowledge
-      items:
-        - label: Website/Infastructure hosting
-          value: ''
-        - label: Server virtualization technologies
-          value: ''
-        - label: OCR Processing
-          value: ''
-        - label: ERP Solutions 
-          value: ''
-        - label: Windows Server/Client Infastructure
-          value: ''
-        - label: ETL/ELT data transformation 
-          value: ''
-        - label: Point of Sale / OPOS 
-          value: ''
-        - label: IT Hardware Infastructure
-          value: ''
 facts:
   title: Interests
   items:
@@ -162,17 +138,15 @@ team:
       name: Michael Bodell
       role: Project Manager
       social:
-        - url: 'https://www.pinterest.com/'
-          icon: fab fa-pinterest
-        - url: 'https://www.instagram.com/'
-          icon: fab fa-instagram
-        - url: 'https://dribbble.com/'
-          icon: fab fa-dribbble
+        - url: 'https://github.com/guitar82'
+          icon: fab fa-github
+        - url: 'https://www.linkedin.com/in/mikebodell'
+          icon: fab fa-linkedin
 testimonials:
   title: Testimonials
   items:
     - image: assets/img/testimonials/rev1.jpg
-      name: Helen Floyd
+      name: null
       role: Art Director
       text: >-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum
@@ -196,13 +170,7 @@ clients:
       image: assets/img/clients/client4.png
 text:
   title: Custom Text
-  text: >-
-    <p> Now there is more fashion. There is no so-called trends. Now chase after
-    anything not necessary — nor for fashionable color nor the shape, nor for
-    style. Think about the content that you want to invest in a created object,
-    and only then will form. The thing is your spirit. A spirit unlike forms
-    hard copy. </p> <p> Here choose yourself like that, without any looking
-    back, do your personal, home, small fashion, and all will be well. </p>
+  text: <p> Text </p> <p> Text </p>
 contacts_info:
   title: Contacts Info
   list:

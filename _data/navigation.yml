@@ -23,11 +23,11 @@ main:
  #         url: "index-video/"
     
   # Resume
-  - title: "Resume"
+  - title: "CV/Resume"
     url: "resume/"
     parent: 0
     childs:
-        - title: "Resume Default"
+        - title: "CV/Resume"
           url: "resume/"
  #       - title: "Resume Image"
  #         url: "resume-image/"
