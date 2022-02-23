@@ -34,8 +34,8 @@ started-video:
   typed:
     - "I have <strong>vision</strong>"
     - "I deliver <strong>progress</strong>"
-    - "I create <strong>value</strong>"
     - "I build strong <strong>teams</strong>"
+    - "I create <strong>value</strong>"
     - "I am a <strong>project manager</strong>"
   video: "https://youtu.be/BYpPvobHREU"
   image: "assets/img/started_image_p.jpg"
