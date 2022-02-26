@@ -1,7 +1,7 @@
 about:
   image: assets/img/portrait.jpg
   text: >-
-    <p>Hello! I’m Michael Bodell. I am a project manager with over 23 years of
+    <p>Hello! I’m Michael Bodell. I am a program manager with over 23 years of
     proffesional leadership and managment experience. </p>
   list:
     - label: Name
@@ -22,30 +22,27 @@ services:
   title: Skills
   items:
     - icon: fas fa-users
-      name: Project Management
-      text: Team builder
+      name: ''
+      text: ''
     - icon: fas fa-music
-      name: Agilist
-      text: like a symphony
+      name: 
+      text: ''
     - icon: fas fa-ad
-      name: Advetising
-      text: >-
-        Advertising services include television, radio, print, mail, and web
-        apps.
+      name: 
+      text: ''
+        
     - icon: fas fa-gamepad
-      name: Game Development
-      text: 'Developing memorable and unique mobile android, ios and video games.'
+      name:  
+      text: ''
     - icon: fas fa-camera
       name: Photography
-      text: >-
-        Our in-house photography services team made up of professional
-        photographers.
+      text: ''
+       
     - icon: fas fa-mobile-alt
-      name: Android Application
-      text: >-
-        Games, playing music, handle network transactions, interacting content
-        etc.
-resume:
+      name: 
+      text: ''
+        
+ resume:
   experience:
     title: Experience
     items:
