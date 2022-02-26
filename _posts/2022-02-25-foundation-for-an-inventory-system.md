@@ -26,9 +26,9 @@ ROLE
 I was the IT Office Manager. I was responsible for the ERP software solution implementation and training.
 
 ACTION
-My first action was to build reporting for sales forecasting and suggested ordering based on historical sales. I trained each employee responsible for purchasing how to generate the reporting and purchase requests. I also used these values this to create minimum and maximum ordering product levels. 
+My first action was to build reporting for sales forecasting and suggested ordering based on historical sales. I trained each employee responsible for purchasing how to generate the reporting and purchase requests. I also used these values to create minimum and maximum ordering product levels. 
 
-I then had to address the physical stocking locations since the spacing for products did not match the required space needed for the average stocking levels. I worked with the warehouse staff and designed a mapped floorplan and location system to reorganize the warehouse. 
+I then had to address the physical stocking locations since the spacing for products did not match the required space needed for the average stocking levels. I worked with the warehouse staff and created a new floorplan and location system to reorganize the warehouse. 
 
 After the stocking locations were organized, I created a labeling and barcode system to map the stock to the new physical inventory shelving locations.
 
