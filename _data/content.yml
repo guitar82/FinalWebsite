@@ -22,7 +22,7 @@ services:
   title: Skills
   items:
     - icon: fas fa-users
-      name: ''
+      name: 
       text: ''
     - icon: fas fa-music
       name: 
