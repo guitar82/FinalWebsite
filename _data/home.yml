@@ -33,9 +33,9 @@ started-video:
   title: "<strong>Michael Bodell</strong>,<br /> program manager and tech enthusiast"
   typed:
     - "I have <strong>vision</strong>"
-    - "I deliver <strong>progress</strong>"
-    - "I build strong <strong>teams</strong>"
-    - "I create <strong>value</strong>"
+    - "deliver <strong>progress</strong>"
+    - "build strong <strong>teams</strong>"
+    - "create <strong>value</strong>"
     - "I am a <strong>program manager</strong>"
   video: "https://youtu.be/BYpPvobHREU"
   image: "assets/img/started_image_p.jpg"
