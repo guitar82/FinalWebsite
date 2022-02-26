@@ -10,6 +10,8 @@ tags:
 - OCR
 ---
 
+Experience Log
+
 PROBLEM
 The company sales were generating large amounts of manual paperwork. All accounts receivable customer invoices were handwritten on three-part carbon copy, a customer copy, a filing copy, and a packing slip. After the sales transaction, an employee was dedicated to entering all invoices. Each copy then required filing in separate cabinets as it moved through the order to cash process.  The customers were provided priced invoices one day per month when the statements were mailed.
 
