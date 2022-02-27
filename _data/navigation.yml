@@ -38,9 +38,9 @@ main:
 #    parent: 0
   
   # Blog
-  - title: "Blog"
-    url: "blog/"
-    parent: 0
+#  - title: "Blog"
+#    url: "blog/"
+#    parent: 0
   
   # Contacts
   - title: "Contact Me"
