@@ -42,4 +42,4 @@ I started with improving our existing data and process to realize those values e
 
 END-RESULT
 
-Upon going live, the new system has decreased the average transaction time by over 200% due to the live keyword searching and data improvements. Customer satisfaction increased dramatically, and sales increased by over 30%. There was an initial learning curve for the sales counter team, and tickets had to be manually reviewed for accuracy until they had achieved a more robust level of proficiency.
+Upon going live, the new system has decreased the average transaction time by over 200% due to the live keyword searching and data improvements. Customer satisfaction increased dramatically, and sales increased by over 30%. There was an initial learning curve for the sales counter team, and tickets had to be manually reviewed for accuracy until they had achieved a more robust level of proficiency. 
